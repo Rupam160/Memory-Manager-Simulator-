@@ -9,7 +9,7 @@ A fun and interactive **Memory Manager Simulator** that visualizes how memory al
 [Click here to watch the demo](https://drive.google.com/file/d/1CA_srw8vlVzxdM4a-ZR6GnK3jfaMXyLw/view?usp=sharing)
 
 ## Visit site
-##[Click here](https://rupam160.github.io/Student-Marks-dashboard/)
+[Click here](https://rupam160.github.io/Memory-Manager-Simulator-/)
 
 ---
 
