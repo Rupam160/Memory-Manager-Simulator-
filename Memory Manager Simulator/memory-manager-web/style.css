@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #f0f0f0;
+}
+
+.menu button, .controls button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.memory-area {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.memory-cell {
+    background: #4caf50;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    min-width: 60px;
+    position: relative;
+    transition: transform 0.3s ease;
+}
+
+.memory-cell:hover {
+    transform: scale(1.1);
+}
+
+.memory-cell .address {
+    font-size: 12px;
+    position: absolute;
+    bottom: -28px;
+    left: 55%;
+    transform: translateX(-50%);
+    color: #333;
+}
+
+.memory-cell.freed {
+    background-color: #cccccc !important;
+    color: #444;
+    opacity: 0.6;
+    position: relative;
+}
+
+.memory-cell.freed::after {
+    content: "freed";
+    font-size: 10px;
+    color: red;
+    position: absolute;
+    top: -14px;
+    left: 50%;
+    transform: translateX(-50%);
+}
