@@ -4,12 +4,12 @@ A fun and interactive **Memory Manager Simulator** that visualizes how memory al
 
 ---
 
-## 🌐 Live Demo
+## 🎥 Demo
 
-👉 **Visit Website:** [https://your-website-link.com](https://your-website-link.com)
+[Click here to watch the demo]([https://drive.google.com/file/d/15HnLi5-1zJRIgL-dtEUfQZGjNu3tq_Rg/view?usp=sharing](https://drive.google.com/file/d/17wbII4Bk0kHySwI8wXIQr5S1p8bFs7qV/view?usp=sharing))
 
-📽️ **Watch Demo Video:**  
-[![Memory Manager Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+## Visit site
+[Click here](https://rupam160.github.io/Student-Marks-dashboard/)
 
 ---
 
